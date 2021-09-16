@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.ciberfarma</groupId>
-	<artifactId>jpa_sesion02</artifactId>
+	<artifactId>jpa_sesion04</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>El prosor</name>
 	<description>Proyecto JPA con Maven</description>
